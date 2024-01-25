@@ -1,0 +1,3 @@
+
+| Keybind | Dispatcher | Command | Comments |
+|---------|------------|---------|----------|
