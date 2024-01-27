@@ -28,7 +28,7 @@
 #mode, #clock, #memory, #temperature, #cpu, #custom-weather,
 #mpd, #idle_inhibitor, #backlight, #pulseaudio, #network, 
 #battery, #custom-powermenu, #custom-cava-internal,
-#custom-launcher, #tray, #disk, #custom-pacman, #custom-scratchpad-indicator {
+#custom-launcher, #tray, #disk, #custom-pacman, #custom-scratchpad-indicator, #custom-spotify, #bluetooth {
   padding-left: .6rem;
   padding-right: .6rem;
 }
@@ -158,3 +158,8 @@ tooltip label {
 #custom-weather {
   color: @red;
 }
+#custom-spotify {
+  color: @green;
+}
+
+
