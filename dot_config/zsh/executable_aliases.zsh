@@ -2,6 +2,7 @@
 ## Aliases
 ##
 
+alias img="qimgv"
 alias nmrestart="systemctl restart NetworkManager.service"
 alias nv="nvim"
 alias run='pnpm run'
