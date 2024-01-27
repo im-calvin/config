@@ -1,4 +1,12 @@
 
+```
+sudo pacman -S alacritty cava chezmoi dunst firefox git hyprkeys neovim paru qimgv rofi spotify swww swaylock swayidle ttf-font-awesome waybar-cava wlogout zsh
+```
+```
+sudo pacman -S termius tailscale nextcloud-client webcord 
+paru -S visual-studio-code-bin
+```
+
 | Keybind | Locked | Mouse | Release | Repeat | Submap | Dispatcher | Command |
 |---------|--------|-------|---------|--------|--------|------------|---------|
 | <kbd>SUPER Q</kbd> | false | false | false | false |  |exec | alacritty | 
