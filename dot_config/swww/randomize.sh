@@ -26,7 +26,7 @@ while true; do
 		done \
 		| sort -n | cut -d':' -f2- \
 		| while read -r img; do
-			swww img "$img" -t grow
+			swww img "$img" -t any
 			sleep $INTERVAL
 		done
 done
